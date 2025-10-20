@@ -8,8 +8,14 @@ out/
 .env.local
 .env*.local
 
+DS_Store
+
 # Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+
+# macOS
+.DS_Store
+**/.DS_Store
